@@ -2,6 +2,38 @@
 
 Creating ReactJS reusable components for community developers to use this components during development. 
 
+## Getting Started
+
+### Installing :rotating_light:
+
+* clone the project using :-
+```
+git clone https://github.com/iamdarshshah/react-reusable-components.git
+```
+
+* Go to that project directory
+```
+cd react-reusable-components
+```
+
+* for installing dependencies 
+```
+yarn install OR npm install
+```
+#### Now you are good to go!!! :+1:
+
+### Folder Structure
+
+. 
+    
+    src
+    ├── ...
+    ├── Components              # Includes everything you need! 
+    │   ├── Button 
+    │   ├── Dropdown        
+    │   └── InputControls     
+    └── ...
+
 
 ## Built With :construction:
 
@@ -11,7 +43,7 @@ Creating ReactJS reusable components for community developers to use this compon
 
 ## Contributing :pushpin:
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/iamdarshshah/react-reusable-components/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors :memo:
 
