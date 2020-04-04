@@ -31,7 +31,14 @@ yarn install OR npm install
     ├── Components              # Includes everything you need! 
     │   ├── Button 
     │   ├── Dropdown        
-    │   └── InputControls     
+    │   └── InputControls  
+            ├── Checkbox
+    │       ├── Radio        
+    │       └── Text
+    |   ├── Card
+    │   ├── Card-box        
+    │   └── Modal
+    |   ├── Image
     └── ...
 
 
